@@ -12,18 +12,13 @@
             font-weight: 400;
             font-style: normal;
             font-variation-settings: "wdth" 100;
-        }
-
-        body {
-            font-family: 'arabic';
             direction: rtl;
             text-align: right;
         }
-
-        h1 {
-            font-size: 22px;
-        }
     </style>
+    <title>
+        مرحبًا بك في صفحتي الشخصية
+    </title>
 </head>
 <body>
 <h1> مرحبًا، أنا أديتيا!</h1>
